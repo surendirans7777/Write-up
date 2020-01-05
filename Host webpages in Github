@@ -1,0 +1,8 @@
+Steps to be followed:
+
+1. Create a repository
+2. Upload all the files into the repository.
+   Eg: html, images, js and all other stuffs that you have in your local pc. //// Here the home page should be named as index.html
+3. Go to Settings --> Github Pages ---> Source ---> Master Branch -------------------> Save
+
+********* Now github link will be provided where your webpages will be hosted ****************
